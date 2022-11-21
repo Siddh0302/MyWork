@@ -1,0 +1,51 @@
+body{
+
+	background-image: url(./bg.jpeg);
+	background-size: cover;
+}
+
+.main{
+	
+	/* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+	box-shadow: 7px 7px 7px   black;
+	background-color: aliceblue;
+	
+	
+}
+.main h1{
+	font-size: 40px;
+	text-align:center;
+	/* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+    
+}
+input{
+	/* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+	width: 100%;
+	font-size: 20px;
+	padding: 12px 20px;
+	margin: 5px 0;
+	border: none;
+	border-bottom: 2px solid #030303;
+}
+input[type=submit] {
+	/* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+	/* width: 100%; */
+	background-color: #f00606;
+	/* border-radius: 20%; */
+	color: white;
+	padding: 16px 12px;
+	margin: 4px 2px;
+	border-radius: 10px;
+}
+#submit
+{
+	width: 50%;
+	text-align: center;
+	justify-content: center;
+	display: flex;
+	margin: auto;
+}
+	.main{
+
+	align-items: center;
+	}
